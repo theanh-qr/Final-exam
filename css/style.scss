@@ -3,11 +3,18 @@ main{
 		.col-md-2{
 			button{
 				margin-top: 10%;
+				background-color: #0d6efd;
+				border:  1px solid #0d6efd;
+				padding: 10px 20px;
+				border-radius: 15px;
 			}
 		}
 		#form-add{
 			z-index: 2;
 			margin-top: 3%;
+			border: 1px solid red;
+			border-radius: 15px;
+			background-color: white;
 			i{
 				float: right;
 				margin-top: 1%;
